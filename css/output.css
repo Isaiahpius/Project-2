@@ -902,10 +902,6 @@ video {
   height: 60px;
 }
 
-.h-\[84px\] {
-  height: 84px;
-}
-
 .h-\[90px\] {
   height: 90px;
 }
@@ -1413,6 +1409,10 @@ video {
   line-height: 1;
 }
 
+.text-\[14px\] {
+  font-size: 14px;
+}
+
 .text-\[16px\] {
   font-size: 16px;
 }
@@ -1437,10 +1437,6 @@ video {
   font-size: 36px;
 }
 
-.text-\[39px\] {
-  font-size: 39px;
-}
-
 .text-\[48px\] {
   font-size: 48px;
 }
@@ -1448,42 +1444,6 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-\[16\.17px\] {
-  font-size: 16.17px;
-}
-
-.text-\[16\.56px\] {
-  font-size: 16.56px;
-}
-
-.text-\[16\.86px\] {
-  font-size: 16.86px;
-}
-
-.text-\[16\.90px\] {
-  font-size: 16.90px;
-}
-
-.text-\[16\.95px\] {
-  font-size: 16.95px;
-}
-
-.text-\[16\.922px\] {
-  font-size: 16.922px;
-}
-
-.text-\[16\.92px\] {
-  font-size: 16.92px;
-}
-
-.text-\[16\.93px\] {
-  font-size: 16.93px;
-}
-
-.text-\[14px\] {
-  font-size: 14px;
 }
 
 .font-bold {
